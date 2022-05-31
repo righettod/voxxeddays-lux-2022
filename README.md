@@ -2,7 +2,7 @@
 
 Demonstration videos and presentation regarding my talk given at the [VOXXED LU 2022](https://luxembourg.voxxeddays.com/en/) conference.
 
-# Icon, logo and templates credits
+# Icon, logo and template credits
 
 * Icon source: 
   * https://www.iconfinder.com/search/icons?family=unicons-line
