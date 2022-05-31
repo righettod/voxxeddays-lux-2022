@@ -2,7 +2,14 @@
 
 Demonstration videos and presentation regarding my talk given at the [VOXXED LU 2022](https://luxembourg.voxxeddays.com/en/) conference.
 
-Icon source: https://www.iconfinder.com/search/icons?family=unicons-line
+# Icon, logo and templates credits
+
+* Icon source: 
+  * https://www.iconfinder.com/search/icons?family=unicons-line
+* PowerPoint template:
+  * https://templates.office.com/en-us/minimalist-sales-pitch-tm22318419
+* OWASP logo:
+  * https://owasp.org/www-policy/operational/branding
 
 # License
 
