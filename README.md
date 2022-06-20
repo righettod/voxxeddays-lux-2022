@@ -4,7 +4,8 @@ Demonstration videos and presentation regarding the [talk](https://cfp-voxxed-lu
 
 # Files
 
-* This [file](presentation.pptx) contains the presentation.
+* This [PowerPoint file](presentation.pptx) contains the presentation:
+  * This [Adobe online free service](https://www.adobe.com/lu_en/acrobat/online/ppt-to-pdf.html) can be used to convert the PowerPoint presentation to a PDF document.
 * This [folder](archive) contains elements used for the demonstrations.
 
 # Demonstration
