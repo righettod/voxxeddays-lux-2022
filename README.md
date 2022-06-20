@@ -24,6 +24,8 @@ For each [HTTP response security header](https://owasp.org/www-project-secure-he
   * <https://templates.office.com/en-us/minimalist-sales-pitch-tm22318419>
 * OWASP logo:
   * <https://owasp.org/www-policy/operational/branding>
+* Video recording:
+  * <https://screencast-o-matic.com/>
 
 # License
 
