@@ -2,6 +2,10 @@
 
 Demonstration videos and presentation regarding the [talk](https://cfp-voxxed-lux.yajug.org/2022/talk/MUZ-4151/Transformez_votre_navigateur_en_piege_a_pirate_avec_les_en-tetes_de_securite_HTTP.) given at the [VOXXED LU 2022](https://luxembourg.voxxeddays.com/en/) conference.
 
+# Talk
+
+https://www.youtube.com/watch?v=dvx-Gr9DO_8
+
 # Files
 
 * This [PowerPoint file](presentation.pptx) contains the presentation:
